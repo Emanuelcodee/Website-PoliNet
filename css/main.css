@@ -1,0 +1,40 @@
+.navbar {
+    box-shadow: 2px 2px 5px #000;
+    opacity: .9;
+}
+
+.navbar .nav-item .nav-link{
+    color: white;
+}
+
+.main-header{
+    background: url(../img/CampusPoli2.jpeg);
+    background-size: cover;
+    min-height: 700px;
+}
+
+.background-overlay{
+    background: rgba(223, 230, 233,.6);
+    background-size: cover;
+    min-height: 700px;
+}
+
+.form-control, .btn{
+    border-radius: 0%;
+}
+
+.bg-success{
+    box-shadow: 2px 2px 5px #000;
+}
+
+.card-header{
+    background: #22a048;
+}
+
+.btn{
+    color:white;
+}
+
+.team, footer{
+    background: #dfe6e9;
+}
